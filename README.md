@@ -2,7 +2,7 @@
 
 ## Educación 
 
-- Ingenieria Civil Matemático | Universidad Técnica Federico Santa María (Marzo 2024)
+- <span style="font-size:0.5em;"> Ingenieria Civil Matemático | Universidad Técnica Federico Santa María (Marzo 2024) </span> 
 
 ## Habilidades
 
