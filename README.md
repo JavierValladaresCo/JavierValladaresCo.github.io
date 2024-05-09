@@ -19,7 +19,7 @@ Link del proyecto: [Dashboard Project](https://github.com/JavierValladaresCo/Coc
 
 El propósito de este proyecto es presentar insights importantes utilizando el conjunto de datos de permisos de circulación de la municipalidad de Cochamó, obtenidos de la página [datos.org](https://datos.gob.cl/). En este proyecto, se utilizó Microsoft Power BI para construir visualizaciones con los datos recopilados, además, se crearon diferentes medidas personalizadas utilizando el lenguaje DAX. Por otro lado, se realizó la limpieza y validación de los datos, eliminando cualquier dato vacío y estandarizando el formato de los datos de texto presentes en el dataset.
 
-![Municipalidad de Cochamo](Images/escudocochamo-1.png "Cochamo")
+![Municipalidad de Cochamo](Images/escudocochamo-1.png =100x20 "Cochamo")
 
 ### Heart Disease Classification
 
