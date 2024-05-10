@@ -13,6 +13,26 @@
 
 ## Proyectos
 
+### Predicción de Olas Oceánicas
+
+Link del proyecto: [Wave Prediction](https://github.com/JavierValladaresCo/Waves_Prediction?tab=readme-ov-file).
+
+
+El propósito de este proyecto fue predecir datos de oleaje a partir de parámetros medidos/calculados recopilados por boyas oceanográficas ancladas en Mooloolaba, [Kaggle](https://www.kaggle.com/datasets/jolasa/waves-measuring-buoys-data-mooloolaba). Donde se realizó un preprocesamiento con el fin de limpiar y adaptar los datos para el entrenamiento del modelo. En este caso, el modelo utilizado fue un modelo de Unidades Recurrentes Cerradas (GRU), el cual permite capturar patrones a lo largo de series temporales.
+
+Los datos estan compuestos por:
+
+- Date/Time: Fecha y hora del registro.
+- Hs: Altura significativa de las olas, un promedio de las más altas de la tercera parte de las olas en un registro.
+- Hmax: La altura máxima de la ola en el registro.
+- Tz: El período de oleaje de cero cruces.
+- Tp: El período de oleaje de máxima energía.
+- Dirección del Pico: Dirección (relacionada con el verdadero norte) desde la cual provienen las olas del período máximo.
+- SST: Aproximación de la temperatura de la superficie del mar.
+
+  <img src="Images/dataset-cover.jpg" alt="Wave Prediction" width="600" height= "300"/>
+
+
 ### Permisos de Ciculación Dashboard, Municipalidad de Cochamó
 
 Link del proyecto: [Dashboard Project](https://github.com/JavierValladaresCo/Cochamo_PowerBI).
