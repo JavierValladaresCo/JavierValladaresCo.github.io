@@ -20,7 +20,7 @@ Link del proyecto: [Wave Prediction](https://github.com/JavierValladaresCo/Waves
 
 El propósito de este proyecto fue predecir datos de oleaje a partir de parámetros medidos/calculados recopilados por boyas oceanográficas ancladas en Mooloolaba, [Kaggle](https://www.kaggle.com/datasets/jolasa/waves-measuring-buoys-data-mooloolaba). Donde se realizó un preprocesamiento con el fin de limpiar y adaptar los datos para el entrenamiento del modelo. En este caso, el modelo utilizado fue un modelo de Unidades Recurrentes Cerradas (GRU), el cual permite capturar patrones a lo largo de series temporales.
 
-Los datos estan compuestos por:
+El dataset esta compuesto por las siguiente columnas:
 
 - Date/Time: Fecha y hora del registro.
 - Hs: Altura significativa de las olas, un promedio de las más altas de la tercera parte de las olas en un registro.
