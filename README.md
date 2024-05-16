@@ -13,7 +13,7 @@
 
 ## Proyectos
 
-### Data Visualization Pre & Post Purchase Questions.
+### Visualización de datos Preguntas Pre & Post Compra.
 
 Este proyecto tiene como propósito presentar información importante a partir de un dataset de preguntas de productos, obtenidas en el periodo 2019-2020. Se utilizó MySQL para realizar un pre procesado de los datos, además, de calcular información importante a partir de consultas estructuradas. Para finalmente, construir un dashboard y graficos a partir de la tabla de datos construida.
 
