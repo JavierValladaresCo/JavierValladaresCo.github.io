@@ -13,6 +13,15 @@
 
 ## Proyectos
 
+### Data Visualization Pre & Post Purchase Questions.
+
+Este proyecto tiene como propósito presentar información importante a partir de un dataset de preguntas de productos, obtenidas en el periodo 2019-2020. Se utilizó MySQL para realizar un pre procesado de los datos, además, de calcular información importante a partir de consultas estructuradas. Para finalmente, construir un dashboard y graficos a partir de la tabla de datos construida.
+
+Pre- and post-purchase product questions was accessed on 15/05/2024 from [https://registry.opendata.aws/pre-post-purchase-questions](https://registry.opendata.aws/pre-post-purchase-questions).
+
+
+<img src="Images/Amazon_logo.jpg" alt="Amazon" width="700" height= "250"/>
+
 ### Predicción de Olas Oceánicas
 
 Link del proyecto: [Wave Prediction](https://github.com/JavierValladaresCo/Waves_Prediction?tab=readme-ov-file).
